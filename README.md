@@ -1,5 +1,3 @@
-readme_content = """# 🎓 Prédiction de la Réussite Scolaire : Analyse des Facteurs de Performance par Machine Learning
-
 ## 📝 Description du Projet
 Ce projet applique des techniques de **Machine Learning** pour prédire les performances académiques des étudiants. L'objectif principal est d'analyser l'influence de divers facteurs socio-économiques, académiques et personnels (comme les habitudes d'étude, l'assiduité, l'implication des parents, etc.) sur les résultats finaux des examens. 
 
@@ -38,3 +36,5 @@ Une comparaison rigoureuse a été effectuée entre l'encodage **Label Encoding*
 
 ## 🚀 Comment exécuter le projet ?
 1. Clonez ce dépôt sur votre machine locale :
+2. ```bash
+   git clone [https://github.com/Clayton2394/Project_IML.git](https://github.com/Clayton2394/Project_IML.git)
